@@ -1,5 +1,5 @@
 # anitype #
-![](gifhere)
+![](https://github.com/lObst3rr0r/anitype/blob/main/examples%20gif/ex1.gif)
 ## What is Anitype ?
 #### Anitype is a python library that animates your output text.
 
@@ -19,4 +19,4 @@ from anitype import fadeText
 
 fadeText("Hello world ! Animate your text with Anitype !",0.05)
 ```
-![](gifhere)
+![](https://github.com/lObst3rr0r/anitype/blob/main/examples%20gif/ex2.gif)
